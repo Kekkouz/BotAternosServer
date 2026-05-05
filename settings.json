@@ -9,7 +9,7 @@
     "ip": "harcocck.aternos.me",
     "port": 43668,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
